@@ -30,7 +30,7 @@ export default class Command extends BaseCommand {
 │⋊ ℕ𝕒𝕞𝕖: Zero Two
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
 │⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
-│⋊ 𝕆𝕗𝕗𝕚𝕥𝕚𝕒𝕝 𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔾𝕣𝕠𝕦𝕡: https://chat.whatsapp.com/HG1ryMzymgxFik23tXkOOH
+│
 ╰──────────────────𐏋  
 
 ╭──────────────────𐏋         
