@@ -20,6 +20,9 @@ Deply Zero Two form Heroku
 <br/><br/>
 
 
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Sparky9992/Zero-Two)
+<br/><br/>
+
 <br></div>
 ## 🧣 Zero Two Deployment   
 ✨ Follow this [Tutorial](https://youtu.be/KVrt3iKO4L0) for Zero Two's error free self hosting.
